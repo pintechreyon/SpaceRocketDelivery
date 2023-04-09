@@ -34,14 +34,14 @@ SCM
 
 ### 자원 나르기
 
-![resource](/uploads/567080b37edf0dc3db92ef469e3d6b13/resource.gif)
+![resource](https://lab.ssafy.com/s08-metaverse-game-sub2/S08P22E206/uploads/567080b37edf0dc3db92ef469e3d6b13/resource.gif)
 
 
 <br>
 
 ### 모듈 수리
 
-![REPAIR](/uploads/00dddffc5c1cd757ebb3de641a254b77/REPAIR.png)
+![REPAIR](https://lab.ssafy.com/s08-metaverse-game-sub2/S08P22E206/uploads/567080b37edf0dc3db92ef469e3d6b13/resource.gif)
 
 <br>
 
